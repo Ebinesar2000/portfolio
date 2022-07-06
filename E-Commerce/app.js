@@ -28,7 +28,7 @@ class Products {
         } catch (error) {
             console.log(error);
         }
-        C
+        
     }
 }
 class UI {
